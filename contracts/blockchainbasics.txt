@@ -1,0 +1,15 @@
+
+
+The concept of blockchains aren't that hard to grasp. The underlying tech may be a bit more trivial.
+
+Transactions
+A blockchain is just a public database. You alter the blockchain by using transactions. Transactions are cryptographically signed.
+ßßß
+Blocks
+All transactionss will be bundled up into something called a block.
+Blocks are added to the blockchain every 17 seconds in Ethereum.
+
+Mining
+When users 'mine' it is something part of the 'order sselection mechanism.' Blockss are reverted from time to time.
+
+\
